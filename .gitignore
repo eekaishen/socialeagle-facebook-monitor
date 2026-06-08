@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+*.local
+cookies*
+*cookie*
+*storage_state*
+*storage-state*
+token.json
+credentials.json
+output/
+reports/
+private/
+secrets/
+node_modules/
+__pycache__/
+*.pyc

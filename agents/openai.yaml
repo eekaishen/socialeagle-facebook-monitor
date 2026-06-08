@@ -1,0 +1,6 @@
+interface:
+  display_name: "SocialEagle Public Page Monitor"
+  short_description: "Evidence-first public social monitoring"
+  default_prompt: "Use $socialeagle-public-page-monitor to inspect the latest monitoring safety result and recommend the next safe action."
+policy:
+  allow_implicit_invocation: true
