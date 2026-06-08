@@ -26,6 +26,15 @@ This repository is a publish-safe skill template. It does not include private ac
 - Keeps monitor language professional and compliance-aware.
 - Provides a reusable operating model for public-page evidence review.
 
+## Use Cases
+
+- Marketing teams tracking public competitor campaign movement.
+- Agencies collecting redacted creative examples for client review.
+- Compliance or operations teams that need monitoring status before acting.
+- AI-agent builders packaging a safe, fail-closed monitoring workflow.
+
+See [docs/use-cases.md](docs/use-cases.md) for more detail.
+
 ## Product Preview
 
 The screenshots below are redacted product views from the SocialEagle interface.
