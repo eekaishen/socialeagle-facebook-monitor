@@ -4,6 +4,12 @@ SocialEagle is a Codex skill for evidence-first public social monitoring workflo
 
 Live product preview: https://socialeagleph.vercel.app/
 
+SEO landing pages:
+
+- [Social media competitor analysis](https://socialeagleph.vercel.app/social-media-competitor-analysis)
+- [Facebook page monitoring](https://socialeagleph.vercel.app/facebook-page-monitoring)
+- [Competitor Facebook analysis](https://socialeagleph.vercel.app/competitor-facebook-analysis)
+
 Project by [www.hubinasia.com](https://www.hubinasia.com/)
 
 ## Why This Exists
